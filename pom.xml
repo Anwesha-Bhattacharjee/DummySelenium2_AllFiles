@@ -3,6 +3,10 @@
   <groupId>com.anwesha</groupId>
   <artifactId>DummySelenium2</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+    <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.release>17</maven.compiler.release>
+  </properties>
   <dependencies>
  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
